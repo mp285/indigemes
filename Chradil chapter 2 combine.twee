@@ -1,0 +1,449 @@
+﻿:: The game is also an act of survivance in its own right
+<a id="doc26"></a>The game<i> </i>is also an act of survivance in its own right. By choosing to call its prompting pathways “quests” and its participant-artists “players,” by relying almost entirely on its users to create the depth of its game world, <i>Survivance </i>radically re-negotiates pre-existing expectations and definitions of what a game can and should look like. It is at once resistance to the conventions of the form and an articulation of indigenous worldviews, both expressed through the game’s unusual mechanics. Simply put, by being an indigenous game, it pushes back against the conventions of the video game form, exposing where they are rooted in Western colonial values disguised as neutrality.
+
+[[Continue to "Blood Quantum"|Blood Quantum]]
+
+
+:: Start
+Your story will display this passage first. Edit it by double clicking it.
+
+
+:: Introduction to Chapter 2
+<a id="doc2"></a>“We cannot leave while we still think we’re the people we were programmed to be."
+“We’re not supposed to be here… but here is where we always come back”…
+“We are targets. We were programmed to be killed, then brought back to life.”
+“We always begin again after we die… just to be killed again” (119-120).<br>
+“But now, right now, we’re supposed to go west. We need to go west.”
+“We cannot go west,” says Giants Hat.
+“The game won’t end until we go west,” insists Tallulah.
+“We don’t want the game to end.”
+—<i>Riding the Trail of Tears </i>281
+
+In <i>Riding the Trail of Tears, </i>Blake Hausman draws a parallel between systems of technology and systems of societal oppression. His narrative is a powerful critique of the way that colonial systems iterate and re-iterate historical violence structurally, evoking Patrick Wolfe’s oft-quoted line: <span class="s1">“settler colonialism is a structure, not an event”<a id="fnlink1"></a><a href="#fn1"><sup>[1]</sup></a>. As discussed in the introductory chapter, it is only a glitch within the novel’s virtual technology that exposes the violence inherent in the virtual reality to those who ride it, such as Tallulah and her tourists.<span class="Apple-converted-space"> </span></span>
+
+<span class="s1">However, the glitch of Hausman’s novel is more than just a glitch, a mistake. While it seems like a glitch to Tallulah and the other human outsiders, the Little People know the glitch as prophecy. They intentionally resist the plotline of the virtual ride, reversing the direction of travel. They refuse to allow the “game to end.” And by subverting the purpose of the technological system, they also thwart the purpose of the settler-colonial system: this virtual world will not kill them yet again.</span>
+
+<span class="s1">The Little People in <i>Riding the Trail of Tears </i>speak to the thematic importance of resistance within indigenous speculative fictions and indigenous games. Like Hausman, many indigenous writers of speculative fiction employ parallels between societal, technological, scientific, and language systems. By creating these parallels, speculative fiction authors are able to point to the very real ways that colonialism utilizes and shapes technology, science, and language into structures that reinforce (and have historically reinforced) its ideology. And by including characters such as the Little People whose actions disrupt one or more of these systems, authors explore different ways to resist the broader settler colonial structure.<span class="Apple-converted-space"> </span></span>
+
+<span class="s1">Indeed, the Little People and Hausman’s text as a whole push against more than just the workings of technological systems; they also resist the formal conventions of science fiction/speculative fiction literatures. Literary scholar and author Grace Dillon demonstrates in her introduction to <i>Walking the Clouds: An Anthology of Indigenous Science Fiction</i> that mainstream science fiction is deeply rooted in<span class="Apple-converted-space">  </span>imperialist/colonial ideals:</span>
+
+<span class="s1"><blockquote>[Science fiction] emerged in the mid-nineteenth-century context of evolutionary theory and anthropology profoundly intertwined with colonial ideology, whose major interest was coming to grips with—or negating—the implications of these scientific mixes of “competition, adaptation, race, and destiny”… and it may still narrate the atrocities of colonialism as “adventure stories.”<a id="fnlink2"></a><a href="#fn2"><sup>[2]</sup></a></span></blockquote>
+
+<span class="s1">It is not difficult to see that this colonial influence, rooted in an era characterized by the violent dismemberment of indigenous lands and the dehumanizing rhetoric of scientific racism, still remains in the SF genre, so often do Native people become literal aliens while cowboys become space-cowboys<a id="fnlink3"></a><a href="#fn3"><sup>[3]</sup></a>. The “final frontier” promised by Star Trek and other television series is merely new imaginative territory to play out colonial fantasies stemming from westward expansion. Thus, when the Little People say “We cannot go west,” they are resisting a critical aspect of science fiction as a literary form. By staging a time-travelling, dimension-hopping march of Cherokee people going northeast, Hausman grounds his formal resistance in indigenous scientific thought and non-linear storytelling. This is an act of survivance, resistance that goes beyond reaction<a id="fnlink4"></a><a href="#fn4"><sup>[4]</sup></a> (Vizenor).<span class="Apple-converted-space"> </span></span></p>
+
+<span class="s1">In her introduction, Dillon suggests that given the colonial ideology that lies at the heart of mainstream science fiction, indigenous SF writers “</span>sometimes intentionally experiment with, sometimes intentionally dislodge, sometimes merely accompany, but invariably <i>change </i>the perimeters of sf”<a id="fnlink5"></a><a href="#fn5"><sup>[5]</sup></a> (3). Following her thinking, this chapter explores how indigenous game developers experiment with, dislodge, and change the form of video games. Like indigenous SF authors, many indigenous game developers utilize the technological system of their games to draw parallels to societal, linguistic, and scientific systems. They are finding ways to expose colonial ideologies across these systems and assert their own ways of knowing. And through these purposeful acts of survivance, indigenous game developers are creating their own steadily growing canon of games and scholarship. Indigenous game developers are an intellectual network, building upon and building up kinship and community in order to bring the <span class="s1">“decolonization imperative”</span><span class="s1"> to games<a id="fnlink6"></a><a href="#fn6"><sup>[6]</sup></a>.</span>
+
+<span class="s1">This chapter explores how the following indigenous game developers draw connections among systems of computing, language, science, and society in order to expose, and often resist, the colonization of technological and literary forms.<span class="Apple-converted-space"> </span></span>
+<span class="s1">John Romero has revolutionized the canon of games with his understanding of dimensional space.</span>
+<span class="s1">Jason Edward Lewis explores historical and contemporary connections between systems of language, computing, and colonial violence.</span>
+<span class="s1">Elizabeth LaPensée plays with alternate possibilities for coding and scientific systems.</span>
+<span class="s1">Renee Nejo exposes the subjectivities that lurk within computing and societal systems.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s1"><a id="fn1"></a><a href="#fnlink1">[1]</a> “Settler Colonialism and the Elimination of the Native”</span>
+<span class="s1"><a id="fn2"></a><a href="#fnlink2">[2]</a> </span><span class="s16">Dillon 2</span>
+<a id="fn3"></a><a href="#fnlink3"><span class="s6">[3]</span></a><span class="s6"> </span>ibid. 5
+<a id="fn4"></a><a href="#fnlink4"><span class="s6">[4]</span></a><span class="s6"> </span>Vizenor <i>Manifest Manners</i>
+<i><a id="fn5"></a></i><a href="#fnlink5"><span class="s6">[5]</span></a><span class="s6"> </span>Dillon 3
+<a id="fn6"></a><a href="#fnlink6"><span class="s6">[6]</span></a><span class="s6"> </span>Justice “Go Away, Water” 150
+
+[[Continue to "DOOM"|DOOM]]
+
+
+:: Jason Edward Lewis
+<span class="s1"><a id="doc4"></a>The series of texts that make up the heart of the project are called The P.o.E.M.M. Cycle. Its genesis lies in documents filed in a 1956 Louisiana court case (Green v. City of New Orleans) seeking to ascertain an adopted child’s racial classifications. The judge claimed that the proper identification of the child’s race was “vital to the general public welfare,” or in other words, that however the child’s race was classified, a wrong classification could endanger the fundamental fabric of the dominant society.<span class="Apple-converted-space"> </span></span>
+
+<span class="s1">That claim seems cartoonishly hyperbolic, until I remind myself that I was adopted only eleven years later in 1967, as a Cherokee/Hawaiian/Samoan boy who was given a loving home by a White family from rural northern California. The cartoonish aspects then pale next to the insidious implications of what that meant at that time, and in that place. I have since come to see the judge’s claim as a powerful metaphor for conversations around racial classifications, but also about a number of exclusionary principles and identification practices deemed central to a “well-functioning” society. The works in The P.o.E.M.M. Cycle engage with questions of how we talk to one another, how we locate ourselves in wider cultural geographies, how we authenticate ourselves against our own expectations and those of others, and how matters that were once seen as so essential—so vital—can later be regarded as contingent.<span class="Apple-converted-space"> </span></span>
+<span class="s1">—Jason Edward Lewis, <i>PoEMM the 2</i></span><span class="s4"><i><sup>nd</sup></i></span><span class="s1"><i> Album 74</i>.<span class="Apple-converted-space"> </span></span>
+
+<iframe src="https://player.vimeo.com/video/31144011?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Poet, artist, and software developer Jason Edward Lewis is interested in exploring and unsettling the relationship between technology and language. <span class="s1">Lewis has long been pushing formal constraints in his generative contributions to new media literature. In 1996 (four years after Lawrence Yuxweluptun’s <i>Inherent Rights, Vision Rights </i>virtual reality exhibit and just three years after the release of <i>DOOM, </i>arguably the first indigenous video game), he completed his Masters thesis titled “Dynamic Poetry: Introductory Remarks to a New Medium” (it is available for reading at obxlabs.net/docs). Since then, he has continued to actively contribute to the growing canon of digital poetry.<span class="Apple-converted-space"> </span></span>
+
+[[Continue to "No Choice description"|No Choice description]]
+
+
+:: Field of Honor
+<span class="s1"><a id="doc10"></a><span class="Apple-tab-span">	</span>By exploring how languages can express oppression, Lewis is also participating in a rich speculative fiction tradition of play with language. Lewis’ imaginative reworking of unreadable language and his recontextualization of the phrase “no choice about the terminology” particularly evokes a scene in D.L. Birchfield’s <i>Field of Honor. </i>In <i>Field of Honor,</i> an ex-Marine named P. P. McDaniel (whom Birchfield subtly likens to the Choctaw leader Pushmataha)<a id="fnlink22"></a><a href="#fn22"><sup>[22]</sup></a> is suddenly introduced to a society of Choctaws who have been secretly living underground. The underground Choctaws have their own technologies, their own sports, and as McDaniel learns, their own education system, which is rather different from what he was taught in school:</span>
+
+<span class="s1">“Very good,” the teacher said. “Today, we are going to examine another nonforthography. Enter it into your notebooks as I write it on the board.”</span>
+<span class="s1">She turned to the blackboard and began writing:</span>
+<span class="s1"><i>The Nonforthography of English Nonfournicity</i></span>
+<span class="s1">Four</span>
+<span class="s1">Fourth</span>
+<span class="s1">Fourteen…<a id="fnlink23"></a><a href="#fn23"><sup>[23]</sup></a></span>
+
+The scene goes on to poke fun at the way that education, and particularly language, embodies ideas about culture and power. By centering Choctaws as the group in power here, Birchfield is able to reveal and denaturalize cultural assumptions that might go unnoticed in a context that centers the colonial narrative. By framing the number system that English uses as a “nonforthography,” Birchfield teases to show how language can other, particularly overly academic language that seeks to legitimize itself through sheer complexity. English speakers are characterized in contrast to Choctaws as a “three-people” who can be essentialized based on that characteristic. The irony of the whole scene is heightened by the remark of McDaniel’s guide, who scoffs “surely spelling couldn’t be taught much differently”<a id="fnlink24"></a><a href="#fn24"><sup>[24]</sup></a> (124). Lewis’ interventions into the readability and contextualization of language thus picks up upon the works of Birchfield and other speculative fiction authors who have experimented with reworking language.</span>
+
+<hr align="left" size="1" width="33%" />
+<span class="s17"><a id="fn22"></a><a href="#fnlink22"><span class="s1">[22]</span></a> </span>Birchfield, <i>How Choctaws Invented Civilization and Why Choctaws Will Conquer the World.</i>
+<i><a id="fn23"></a></i><a href="#fnlink23"><span class="s6">[23]</span></a><span class="s6"> </span><span class="s3"><i>Field of Honor </i>125-6</span>
+<span class="s1"><a id="fn24"></a><a href="#fnlink24">[24]</a> </span><span class="s16">Ibid. 124</span>
+
+[[Continue to "The Intellectual Network"|The Intellectual Network]]
+
+
+:: NextTest as awikihigan: Lewis and Sequoyah
+<span class="s1"><a id="doc6"></a><span class="Apple-tab-span"></span>From a technological perspective, Lewis’ obfuscatory text reflects his deep engagement with the history of print media, its relationship to colonialism, and its implications for digital forms. <i>No Choice, </i>and indeed all of Lewis’ PoEMMs, are rooted in a conscious rejection of colonial print conventions in favor of an indigenous understanding of the function of language. In his scholarly piece “Preparations for a Haunting: Notes Toward an Indigenous Future Imaginary,” Lewis notes the similarities between social and computational systems, and explicates the connection between them. He explains that as technology creators within the United States are living within a colonial social system, their creations “can be thought of as orderly and (mostly) predictable assemblages of biases that reify the imagination of their creators into executable code.”<a id="fnlink7"></a><a href="#fn7"><sup>[7]</sup></a> </span><span class="s2">Lewis uses Microsoft word as an example, arguing that the “evolution [of digital text tools] occurs within a framework based in a print mentality that constrains innovation onto a particular path.”<a id="fnlink8"></a><a href="#fn8"><span class="s6"><sup>[8]</sup></span></a> Lewis created the NextText software, which he used to build some of his earlier PoEMMs, as a breakaway from the conventions of print type that he found shaped the majority of digital literature. One of the major constraints that Lewis was able to overcome with NextText is what he calls the “ASCII-Pixel wall”: the division between software that treats the characters of words as text (MS Word, e.g.) and software that treats the characters of words as images (Photoshop, e.g.)<a id="fnlink9"></a><a href="#fn9"><span class="s6"><sup>[9]</sup></span></a>. NextText brings these two functionalities into the same place, so that text and image are no longer mutually exclusive, but rather cooperative. In other words, Lewis created a text-processer that is consistent with the process of awikhiganawôgan, which treats writing, drawing, and mark-making as parts of the same whole. Lewis has made image-making and text-making exist together in the same software, the way that the Abenaki language and other indigenous languages hold them together in the same verb<a id="fnlink10"></a><a href="#fn10"><span class="s6"><sup>[10]</sup></span></a>.
+
+<span class="s1"><span class="Apple-tab-span">	</span>Like Sequoyah, Lewis broke text technology. Just as Sequoyah asserted Cherokee language and sovereignty beyond the constraints of the English alphabet by creating his own glyphs, Lewis has asserted his own indigenous presence beyond the English-centric conceptions of text. It is interesting that both Sequoyah and Lewis reshaped or rejected outright the visual shape of English characters. Still, perhaps the most remarkable aspect of their respective works is their conceptual importance: both Sequoyah and Lewis reveal the ways that the relationship between language and technology is subjective. As Lewis points out, the main hurdle to overcome in the development of NextText was one of ideology and imagination:</span>
+
+<span class="s1">Our tools always embed both a reality and ideology about the propensities and the capacities of the material we use them on. This is not presented as news, just recognition of long-standing critical discourse, and as background to ask why more development effort has not been expended on updating the ways in which our tools handle digital text.</span>
+
+<span class="s1">The NextText library does not embody any innovation in the computer science sense. The algorithms are extensions of existing algorithms for manipulating outlines… The innovation the library does represent is in rejecting the word processor as the primary tool for writing, and employing data handling techniques from other domains in software engineering<a id="fnlink11"></a><a href="#fn11"><sup>[11]</sup></a>.</span>
+
+<span class="s1">While Lewis is clearly a savvy programmer (and designer, and artist, and poet), he has found that the limitations upon technological form require more than technical savvy to transcend; rather, he highlights the ability to resist the histories and conventional functions of technological “tools” as a critical step in his work.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn7"></a><a href="#fnlink7"><span class="s6">[7]</span></a><span class="s6"> </span>Lewis “Preparations for a Haunting” 240
+<a id="fn8"></a><a href="#fnlink8"><span class="s6">[8]</span></a><span class="s6"> </span>“Writing Designing Programming” 3)
+<a id="fn9"></a><a href="#fnlink9"><span class="s6">[9]</span></a><span class="s6"> </span>ibid.
+<a id="fn10"></a><a href="#fnlink10"><span class="s6">[10]</span></a><span class="s6"> </span>Brooks <i>Common Pot </i><span class="s6">xxi</span>
+<a id="fn11"></a><a href="#fnlink11">[11]</a> <span class="s2">“Writing Designing Programming” 8</span>
+
+[[Continue to "Analysis of print and resistance in No Choice"|Analysis of print and resistance in No Choice]]
+
+
+:: Obfuscatory Legal Language
+<a id="doc8"></a>The final lines of <i>No Choice About the Terminology </i>can also be read as a commentary upon the relationship between language, racial classification, and indigenous presence. <span class="s1">The last three lines, “we must remain unsullied. / We must remain. / We must remain dead.” recall the role that racial “purity,” through devices like blood quantum, has played in disenfranchising Native people from tribal citizenship and dispossessing them from land<a id="fnlink15"></a><a href="#fn15"><sup>[15]</sup></a>. Lewis’ words echo arguments for racial purity in the name of protecting indigenous nations’ sovereignty, even as they reflect the pain and loss that mechanisms like blood quantum have visited upon Native people and communities.<span class="Apple-converted-space"> </span></span>
+
+<span class="s1">Given the PoEMM project’s origins in a court case that dealt with racial classification, these lines also evoke a larger history of legal language surrounding race. In particular, the obfuscatory aspects of the text resonate with the way that unreadability and non-transparency in text has played a role in shaping treaties, laws, and court cases surrounding indigenous legal status. Beth Piatote, who explores the role of subjective, domestic language in shaping federal Indian policy in her book <i>Domestic Subjects, </i>calls federal Indian law “a lamentable tangle” (27) that nevertheless makes pretense of its own objectivity through a “legitimating framework” (135).<a id="fnlink16"></a><a href="#fn16"><sup>[16]</sup></a> She notes that stretching back to the 19</span><span class="s4"><sup>th</sup></span><span class="s1"> century, federal Indian law tends to “</span><span class="s8">discursively entrap indigenous subjects” within circular constructions of language. For example, Piatote demonstrates that in <i>Lone Wolf v. Hitchcock </i>(1903), in which the court’s ruling claimed that the federal government had always had the power to abrogate treaties with native nations, circular language played a crucial role in justifying government paternalism and in retrospectively extending its authority:</span>
+
+<span class="s1">[The ruling] acknowledges that the government largely created the conditions that it would then claim as the source of its power to address: “these Indian tribes <i>are</i> the wards of the nation. They are communities <i>dependent</i> on the United States… From their very weakness and helplessness, so largely due to the course of dealing of the Federal government with them and the treaties in which it has been promised, there arises the duty of protection, and with it the power…” Not only are the structural conditions and legal rationale circular, but so is the ruling’s temporal reach. By claiming plenary power as ‘always’ understood and exercised by Congress, the ruling reaches back across history to destabilize political relations that were originally grounded in a broader sense of indigenous national autonomy<a id="fnlink17"></a><a href="#fn17"><span class="s7"><sup>[17]</sup></span></a> (Piatote 136).</span>
+
+<span class="s1">Piatote’s analysis demonstrates how structures of language, law, and the colonial state are cooperatively linked in this case. The “lamentable tangle” present in the structure of language obscures the underlying colonial structure that seeks to abrogate indigenous nations’ political authority.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s3"><a id="fn15"></a><a href="#fnlink15"><span class="s1">[15]</span></a> </span>Tallbear <i>Native American DNA </i>55-7. This is a history that particularly affects indigenous nations that historically included slaveholders, like the Cherokees. See Saunt 214.
+<a id="fn16"></a><a href="#fnlink16"><span class="s6">[16]</span></a><span class="s6"> </span><i>Domestic Subjects </i>27; 135
+<a id="fn17"></a><a href="#fnlink17"><span class="s6">[17]</span></a><span class="s6"> </span>Ibid. 136
+
+[[Continue to "Transparency"|Transparency]]
+
+
+:: Elizabeth LaPensée
+<a id="doc12"></a>Through its connection to indigenous futurisms, LaPensée’s work powerfully illustrates the network of connections between speculative fictions and indigenous games. The concept of indigenous futurisms has proven to be a touchstone for native writers, game developers, and scientists. For example, <i>Strange Horizons</i>, a journal of speculative fiction, ran an article called “Decolonizing Science Fiction and Imagining Futures: An Indigenous Futurisms Roundtable.”<a id="fnlink29"></a><a href="#fn29"><sup>[29]</sup></a> Elizabeth LaPensée, multimedia journalist and podcaster Johnnie Jay, and scientist/writer Darcie Little Badger were all in attendance. During the panel, LaPensée remarked:
+
+<span class="s1">Indigenous Futurisms recognizes space-time as simultaneously past, present, and future, and therefore futurisms is as much about the future as it is about right now. In my work, it means telling alternate histories, dreaming about liquid technology, imagining a future where unceded territories are taken back, and, ya know, space canoes.</span>
+
+Indigenous futurisms thus spans across boundaries in space and time, as well as across divisions of media, genre, and academic disciplines. The concept’s resonance among scientists, writers, and technology developers alike speaks to continuity among different forms of knowledge, the same kind of continuity that the word awikhigan (write, draw, mark) acknowledges<a id="fnlink30"></a><a href="#fn30"><sup>[30]</sup></a>. Indigenous futurisms, as a term, is all the more powerful for its implicit defiance of “lasting” narratives that seek to define indigeneity and modernity as mutually exclusive<a id="fnlink31"></a><a href="#fn31"><sup>[31]</sup></a>. By binding “indigenous” and “future” together, Dillon has created a label that succinctly invokes and evokes indigenous science, sovereignty, creativity, and modernity, all the while resisting colonial impositions of absence and “primitivism.”<span class="Apple-converted-space"> </span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s16"><a id="fn29"></a><a href="#fnlink29"><span class="s6">[29]</span></a></span> “Decolonizing Science Fiction and Imagining Futures: An Indigenous Futurisms Roundtable.” (<b>link: </b>http://strangehorizons.com/non-fiction/articles/decolonizing-science-fiction-and-imagining-futures-an-indigenous-futurisms-roundtable/)
+<a id="fn30"></a><a href="#fnlink30">[30]</a> <span class="s16">Brooks </span><i>Common Pot </i>xxi
+<a id="fn31"></a><a href="#fnlink31">[31]</a> O’Brien <i>Firsting and Lasting</i>
+
+[[Continue to "We Sing for Healing"|We Sing for Healing]]
+
+
+:: opening page
+<p class="p19"><img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/wesing-map.jpg" width="599" height="406" alt="Image"></p>
+<p class="p1">For example, in this first page of <i>We Sing, </i>each choice reflects the player’s response not to a plot dictated by text (as with many text-based games or interactive stories) but to the image before them - an image whose relationship to the textual choices is abstract. Depending on the player, the above image might evoke constellations, drops of water on a spider web, waterways, or intricate networks of beads. Whatever kind of network the player sees, they must decide how they want to engage with it. Is the player drawn in by music, sight, motion? Are they disinterested, impatient, do they want to move on? Are they intrigued - eager to zoom in and begin to explore the paths ahead? All of these questions about responsiveness are implicit in the choices that the game offers here.</p>
+
+[[Continue to "Turtle"|Turtle]]
+
+
+:: Song, invocation, evocation
+<a id="doc16"></a>Musical structures and indigenous conceptions of song also inform the experience and purpose of the game. The title, <i>We Sing for Healing, </i>recalls Womack’s framework of evocation and invocation, and his observation that “ceremonial chant” is performed to “cause a change in the physical universe.”<a id="fnlink34"></a><a href="#fn34"><sup>[34]</sup></a> LaPensée’s title sets her game into that framework; the purpose of this game is healing, and the method is song. Each “space/time journey” that the player takes through the game follows the title, taking on the quality of a song or chant. The decidedly futuristic music by indigenous artist Exquisite Ghost that is embedded throughout the game, some of which incorporates LaPensée’s own singing voice, speaks to futurisms and resists colonial frameworks that seek to divide ceremony from modernity. In the electronic rhythms of indigenous-created music, LaPensée invokes the future as a time of hope, possibility, and healing.
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn34"></a><a href="#fnlink34"><span class="s6">[34]</span></a><span class="s6"> </span><i>Red on Red </i>17
+
+[[Continue to "resistance/survivance"|resistance/survivance]]
+
+
+:: beading1
+<a id="doc18"></a>For example, LaPensée has compared wampum and beading to the structures of computer coding, and suggested the possibility of beading as a game mechanic<a id="fnlink36"></a><a href="#fn36"><sup>[36]</sup></a>. While it might be difficult to imagine how technology might develop with a beaded structure, wampum is undeniably a form of binary (purple and white beads) - and so the potential is clearly there. In fact, indigenous artist Will Wilson has already created a piece of beaded artwork (based on a traditional Diné weaving design) that contains a readable QR code.
+
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/eyedazzler-hq.jpeg" width="202" height="355" alt="Image">
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn36"></a><a href="#fnlink36">[36]</a> “Red Man Laughing: The Dr. Elizabeth LaPensée Interview”
+
+[[Continue to "beading2"|beading2]]
+
+
+:: beading3/map
+<a id="doc20"></a>In light of the integration of beading that LaPensée suggests, the opening page of the game takes on a different meaning. Resembling a network of beaded strands, the artwork that accompanies the first set of choices in the game might be read as an abstract map that points to the player’s experience of the gameworld.
+
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/wesing-map.jpg" width="599" height="406" alt="Image">
+
+LaPensée has commented on the way that fog of war<a id="fnlink37"></a><a href="#fn37"><sup>[37]</sup></a> on in-game maps is a mechanic that reproduces the colonial idea that before something is “discovered,” it does not exist<a id="fnlink38"></a><a href="#fn38"><sup>[38]</sup></a>. Maps also play a role in the genre of text games and hypertext fiction. Storyspace, one of the first hypertext fiction softwares, incorporated “topographic writing” by displaying a “map view” of the structure of its links: “an author literally ‘builds’ the space as she traverses it, zooming in and out to view details of the work, the map making the territory.”<a id="fnlink39"></a><a href="#fn39"><sup>[39]</sup></a> Thus, it seems fitting that LaPensée would intervene in the structures of games and hypertext stories by re-mapping them. In an Anishinaabe worldview, as LaPensée explained, mapping and conceptions of space are focused around networks of rivers and waterways - another image that this page seems to evoke<a id="fnlink40"></a><a href="#fn40"><sup>[40]</sup></a>. Indeed, <i>We Sing </i>includes multiple pages that place the player into relationality with waterway travel, whether dancing across the rocks in a river or riding a spacecanoe. There are also multiple pages that employ water imagery to represent outer space; combined with the spacecanoe mechanic that is presented as a textual option, the representation of space as waterlike throughout the game becomes a way of engaging the popular sf subject of space travel through an Anishinaabe conception of territory. Representing the territory of space through waterways also subtly resists the tendency of mainstream sf narratives to create space-cowboy narratives that extend the language and ideas of colonization into space travel<a id="fnlink41"></a><a href="#fn41"><sup>[41]</sup></a>. This opening image, then, becomes LaPensée’s Anishinaabe in-game map, representing the space of her game in an image that evokes both the blue-green veins of waterways and stars in the darkness of outer space in the mind of her player.<span class="Apple-converted-space"> </span></p>
+
+<hr align="left" size="1" width="33%" />
+<span class="s6"><a id="fn37"></a><a href="#fnlink37">[37]</a> </span>Define; maybe with an image or gif example
+<span class="s16"><a id="fn38"></a><a href="#fnlink38"><span class="s6">[38]</span></a></span> “Gamasutra Talks Indigenous Games”
+<a id="fn39"></a><a href="#fnlink39">[39]</a> Barnet 121
+<a id="fn40"></a><a href="#fnlink40">[40]</a> “Gamasutra Talks Indigenous Games”
+<a id="fn41"></a><a href="#fnlink41">[41]</a> Dillon
+
+[[Continue to "Futurisms/sf"|Futurisms/sf]]
+
+
+:: Survivance Game
+<span class="s1"><a id="doc22"></a>LaPensée’s game <i>Survivance </i>also seeks to heal, but from a rather different approach. At first glance, <i>Survivance </i>looks more like a community-based art project than a video game. </span><span class="s6">The game, described on its own website as “</span><span class="s1">a social impact game that asks us to explore our presence and create works of art as a pathway to healing,” draws upon Vizenor’s concept of survivance and pushes at the boundaries of what a “game” (digital or non-digital) can be<a id="fnlink45"></a><a href="#fn45"><sup>[45]</sup></a>. Click through the game’s site below to explore.</span>
+
+<iframe src="http://www.survivance.org/" width="940" height="620" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<p class="p5"><span class="s1"><b>(Re-iterate Vizenor and survivance in a node here)</b></span></p>
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn45"></a><a href="#fnlink45"><span class="s6">[45]</span></a><span class="s6"> <a href="http://survivance.org"><span class="s2"><i>survivance.org</i></span></a></span>
+
+[[Continue to "summary"|summary]]
+
+
+:: growing living archive
+<span class="s1"><i><a id="doc24"></a>Survivance’s </i>minimalist appearance belies the true complexity of its immersive mechanics and engagement with its players. The site’s gameplay asks its players to be both audience and storyteller by listening to the words of elders (through embedded video) and then generating their own acts of creativity. Thus, <i>Survivance </i>as a network of collective knowledge grows and deepens as people play it and more “acts of survivance” are added to the game’s archive. Players’ contributions alter the overall experience of the game, as the accumulation of stories, poetry, and art become part of the game world - as they <i>become</i>. Ultimately, <i>Survivance </i>empowers its players to produce their own proof of enduring presence, all the while archiving and growing strong with the power of these acts of survivance.</span>
+
+[[Continue to "interactivity/social engagement"|interactivity/social engagement]]
+
+
+:: BQ1
+<a id="doc28"></a>Although <i>Blood Quantum </i>is still a work in progress and will not be out for some time, Nejo is already speaking about the game in spaces like the Game Developers’ Conference and Indigenous Comic Con. She was kind enough to talk with me about what the game will look like. The game operates with a “double life scenario”; one part of play is based around the home island of the community, in which the goal is to keep the community happy and growing. The home island features a farming mechanic, a class system with leveling (hunter, builder, and farmer classes), and multiple “opportunities for empathy” that involve being affectionate with drawplets and interacting with their lives. The home island also has a “spirit level,” which indicates the morale level of the community, and determines whether new baby drawplets can be born.<a id="fnlink52"></a><a href="#fn52"><span class="s7"><sup>[52]</sup></span></a>
+
+<span class="s1"><img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/home-island.jpg" width="501" height="376" alt="Image"></span>
+
+<hr align="left" size="1" width="33%" />
+<span class="s1"><a id="fn52"></a><a href="#fnlink52">[52]</a></span><span class="s3"> </span><span class="s16">Renee Nejo personal interview</span>
+
+[[Continue to "BQ2"|BQ2]]
+
+
+:: BQ3
+<i><a id="doc30"></a><span class="Apple-tab-span">	</span>Blood Quantum</i> also bases its combat system partially on kinship mechanics. In exploration mode, when a mixed drawplet is in combat and fighting against a grayscale drawplet, the game acknowledges that they are fighting against someone who is also their kin by giving the mixed drawplet a chance to lose their turn. It is one of the ways that Nejo is trying to rework combat mechanics to incorporate the idea of empathy. However, it has had a surprising effect on the game as a whole:
+
+<span class="s1">I’m going to do that [lose a turn] with drawplets who are fighting grayscale drawplets with their colorful drawplets next to them, because I think that says something - that ‘I’m unsure of myself.’… It’s an empathy mechanic… it’s part of the story I’m trying to tell. But what that does is when the player starts to think strategically about which characters they’ll be taking out - and remember we have permanent death… and we’ve got these kind of generation mechanics where you can breed out if you’re not careful… what that could mean is that the player could arguably choose drawplets who are either purebred or choose drawplets that are mixed because maybe they’re less valuable to them in a certain way. But suddenly we’re forcing a player to make what would seem to be very racist decisions. And that’s not saying that the player is racist… that’s just the system they have to work with.<a id="fnlink54"></a><a href="#fn54"><span class="s7"><sup>[54]</sup></span></a></span>
+
+<span class="s1">When I met Nejo at Indigenous Comic Con, she had just recently ‘discovered’ how this particular empathy mechanic, when placed within the context of the game’s system, might encourage players to view mixed drawplets as a liability to be avoided, causing them to make strategic decisions toward racial purity. Upon reflection, she has decided to leave the mechanic in place, rather than finding a way to work around it, saying “I don’t want to take that away, because I actually hope maybe the player can be confronted with that.”<a id="fnlink55"></a><a href="#fn55"><span class="s7"><sup>[55]</sup></span></a> Certainly, it is something that has caused Nejo and me both to think harder about what it means to make choices about race, empathy, and survival within a system - whether a social system or a computing system - that is driven by colonial purpose.</span>
+
+<hr align="left" size="1" width="33%" />
+<a id="fn54"></a><a href="#fnlink54"><span class="s6">[54]</span></a><span class="s6"> </span>Renee Nejo personal interview
+<a id="fn55"></a><a href="#fnlink55"><span class="s6">[55]</span></a><span class="s6"> </span>Ibid.
+
+[[Continue to "BQ4"|BQ4]]
+
+
+:: Conclusion to Chaper 2
+<a id="doc32"></a>The historical commentaries of Jason Edward Lewis, the futurisms of Elizabeth LaPensée, and the empathy simulations of Renee Nejo demonstrate the many powerful ways that indigenous creators engage with the problem of form in a medium that attempts to hide its own subjectivity and biases. They also begin to give us a sense of what is at stake for indigenous developers when they work with or against form. Indigenous games carry the potential to communicate powerful critiques and to expose hidden truths. In some cases, they can inspire empathy. And according to Renee Nejo, they always have the power and purpose to heal.
+
+
+
+:: DOOM
+Indigenous presence in gaming stretches back to the very foundations of modern video games as we know them. John Romero is one prominent example of an early indigenous game developer “setting his DNA” into the canon of video games. Romero, well-known among gamers for his work on landmark games like <i>Wolfenstein 3D,</i> <i>DOOM,</i> and <i>Quake (</i>and for the “bad-boy image” that “made him the industry’s rock star”), is less commonly identified as an <i>indigenous </i>game maker (<i>Masters </i>xi). <i>Masters of Doom, </i>currently the definitive book account of <i>DOOM’s </i>making and the lives of its creators, identifies his Mexican-American descent and the story of how he “escaped the broken home” of his childhood “to make some of the most influential games in history,” but makes no mention of his Cherokee and Yaqui heritage that other members of the indigenous game developer community now commonly recognize <a id="fnlink6.1"></a><a href="#fn6.1"><sup>[6.1]</sup></a>.</span>. Elizabeth LaPensée, who is a personal friend of Romero’s, has observed “<span class="s2">something funny happened when John Romero became famous. He became white” <a id="fnlink6.2"></a><a href="#fn6.2"><sup>[6.2]</sup></a></span></span></span>
+
+<span class="s1"><i>DOOM </i>certainly broke ground, in no small part because of the leaps that it made in creating the appearance of three-dimensional movement on a flat computer screen. <i>DOOM </i>is commonly recognized as the game that revolutionized and popularized the first-person shooter genre, which continues to flourish along the lines that Romero and his colleagues drew in 1993 upon its release. <i>The Encyclopedia of Video Games </i>characterizes the game as “two-and-a-half-dimensional (2.5D),” referring to the unprecedented variety of ways that players could move through the game space (e.g., with varied ground heights, Wolf 168). Romero’s deliberately varied and asymmetrical level design, as well as his elimination of strict boundaries between levels, contributed to the feeling of immersion and dimensionality for which the game became known (<i>Masters of Doom </i>128, 130). His attentiveness to space is matched only by his obsession with pacing and speed; while brainstorming for <i>Wolfenstein 3D, </i>Romero remarked “We have this opportunity to do something totally new here, something fast and texture-mapped… make the graphics look great and <i>fast</i>” (<i>Masters </i>92, emphasis added). The resulting game was, at the time, “unique in its implication of a larger virtual world… the <i>feeling </i>was one of true exploration” <a id="fnlink6.3"></a><a href="#fn6.3"><sup>[6.3]</sup></a>.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rV6HlBa88js" frameborder="0" allowfullscreen></iframe>
+
+The above video gives a sense of how critical the relationship between space and player movement is in Romero’s game and level design. At 4:30, he notes the importance of giving the player asymmetrical space, plenty of room to maneuver, and many angles and corners to peer around in order to navigate the space strategically and skillfully. Romero’s emphasis on precise spatial and temporal reasoning both in his gameplay and level design are defining characteristics of his work. His interest in how time could affect a player’s experience of space has prompted LaPensée to connect <i>DOOM’s </i>mechanics to indigenous teachings about space-time, speculating that Romero’s early work on <i>DOOM, Quake, and Wolfenstein </i>was influenced by his indigenous identity and the teachings he heard while growing up. She poses the question: “John Romero broke ground with <i>DOOM</i>, but what was it that he was doing? He was expanding dimensional space in that game” <a id="fnlink6.4"></a><a href="#fn6.4"><sup>[6.4]</sup></a>.</span>.</span><span class="s1"> Thus, in 1993 (just a year after Lawrence Yuxweluptun developed his virtual reality installation <i>Inherent Rights, Vision Rights) </i>Romero was already revolutionizing the form of video games with indigenous knowledge.
+
+<hr align="left" size="1" width="33%" />
+<span class="s1"><a id="fn6.1"></a><a href="#fnlink1.1">[6.1]</a> David Kushner </span>
+<span class="s1"><a id="fn6.2"></a><a href="#fnlink1.2">[6.2]</a> Sam </span>
+<span class="s1"><a id="fn6.3"></a><a href="#fnlink1.3">[6.3]</a> Mark Wolf </span>
+<span class="s1"><a id="fn6.4"></a><a href="#fnlink1.4">[6.4]</a> Gamasutra </span>
+
+[[Continue to "Jason Edward Lewis"|Jason Edward Lewis]]
+
+
+:: No Choice description
+<span class="s5"><a id="doc5"></a>Rooted in Lewis’ exploration of how “</span><span class="s1">a wrong [racial] classification could endanger the fundamental fabric of the dominant society,” the PoEMM project (Poetry for Excitable Mobile Media) engages with how language conceals and reveals through hegemonic terminology regarding race. His PoEMM <i>No Choice About the Terminology </i>considers the relationship between race and language by creating a digital textual experience that is deliberately difficult to read.</span><
+<span class="s1"><i>No Choice </i>thematically, poetically, and haptically engages with the idea of touch interaction as obfuscation. When the user opens the PoEMM, they encounter a text that is designed to be, at first glance, unreadable. Lines of text rush dizzyingly past to the left and to the right in alternation, and the reader’s eyes catch upon first one set of lines, and then the other. The result is almost an optical illusion. When the user touches the screen, they realize that they can interact with the movement of the text, changing the speed and direction of each line with a swipe or stopping its movement altogether. They might choose to switch the direction of the lines so that they can read the text from right to left, slow the lines to a readable pace, or, with a precise touch, stop each line and try to scroll through it by hand to read the full text. The text, however, resists this kind of control; the lines always seem to scroll faster than the user’s swipes, and if the user tries to scroll the text from a stopped position, they discover that touching a stopped line makes its letters swell and take over the screen for as long as they hold it, making the line unreadable, and making the rest of the PoEMM appear <i>through </i>the specific letter that they initially touched. If the user touches two lines at once in this way, the screen completely abstracts; purple shards emerge from the user’s finger and break apart any text of the line that it touches.<span class="Apple-converted-space"> </span></span>
+
+[[Continue to "NextTest as awikihigan: Lewis and Sequoyah"|NextTest as awikihigan: Lewis and Sequoyah]]
+
+
+:: Analysis of print and resistance in No Choice
+<span class="s2"><a id="doc7"></a><span class="Apple-tab-span">	</span>This technological implementation of indigenous ideas about text and image is what has allowed Lewis to create applications like the PoEMMs, which could not exist without the ability to be both text and image at the same time. A closer look at <i>No Choice About the Terminology</i>reveals the specific ways that resistance to the forms of printlike type informs Lewis’ work and becomes a mechanic to express meaning. The PoeMM’s emphasis on individual letters and lines of text as the main units that the user can swipe and select evokes the setting of print type. By centering the letter and the line as individual and moveable entities, Lewis takes us back to that moment of initial meaning-making when relationships and expectations of print text creation and parsing were first being established. By building imagery into the type that breaks and fragments its form and readability, Lewis, like Sequoyah, <i>breaks </i>print. He imagines what might happen if an indigenous literary framework like awikhigan had shaped dominant print technology, and what it could look if indigenous ideologies influence digital technologies in the future. As Lewis frames it in his own writing, these are the moments when ideological “ghosts” first settle down to haunt the future of print technology:<span class="Apple-converted-space"> </span></span>
+
+<blockquote>When our seventh-generation descendants explore whatever the latest incarnation of virtual space might be, they will find ghosts. Those ghosts will be the remnants of the epistemologies and ideologies that built those spaces—the phantasms in operation at their birth. Those ghosts will tenaciously inhabit cyberspace despite all attempts to exorcize them. We need to ensure that some of those ghosts will have been put there by Indigenous people who partook in the construction of the technological substrate, having been fully active in the future imaginaries that dreamed it into being.<a id="fnlink12"></a><a href="#fn12"><span class="s7"><sup>[12]</sup></span></a></blockquote>
+<span class="s1">Lewis’ piece can be read as an act of “imagining otherwise” in the past with an outlook toward the future, a retrospective setting of his creative “DNA” into the historical “technological substrate.”<a id="fnlink13"></a><a href="#fn13"><sup>[13]</sup></a> The final line of his PoEMM reflects the siting of the piece in this past and present moment of creation: it is the only line that does not scroll, but types, over and over again, letter by letter, “we must remain dead.” The act of <i>remaining </i>dead, Lewis suggests, is a continuous process. It evokes, again, Wolfe’s line: “settler colonialism is a structure, not an event.”<a id="fnlink14"></a><a href="#fn14"><sup>[14]</sup></a> By mechanically turning this line into a teleological statement that is constantly in the process of being completed, Lewis points to the presence of that structure in systems of technology and terminology. He also points to the role of the user in enacting that structure: if the user stops the line from scrolling, it stops completing. Even though the user did not create the process by which the line runs, they nevertheless participate in it.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s1"><a id="fn12"></a><a href="#fnlink12">[12]</a></span><span class="s3"> </span><span class="s16">“Preparations for a Haunting” 247</span>
+<a id="fn13"></a><a href="#fnlink13"><span class="s6">[13]</span></a><span class="s6"> </span>Lewis “Indigenous VR Spotlight”; Justice <i>imagineotherwise.ca;</i>
+<span class="s16"><i><a id="fn14"></a></i><a href="#fnlink14"><span class="s6">[14]</span></a></span> <span class="s1">“Settler Colonialism and the Elimination of the Native”</span>
+
+[[Continue to "Obfuscatory Legal Language"|Obfuscatory Legal Language]]
+
+
+:: Transparency
+<span class="s8"><a id="doc9"></a>By playing with the relationship between readability and unreadability, Lewis’ PoEMMs recall this history of legal language even as they engage with questions that digital media scholars face about transparency, which refers to the way that digital technologies often naturalize their subjectivities under “intuitive” interfaces. </span><span class="s1">Lewis’ work has received scholarly attention in software studies for its creative use of touch screen technology to disrupt this transparency of interface between the user and computer. For example, Lori Emerson’s <i>Reading Writing Interfaces </i>seeks to push back against “the marvelousness of natural, intuitive, invisible, and even ‘magical’ interfaces.” Emerson contextualizes Lewis’ work within a movement of writers and software developers who “advance an insurgent twenty-first-century poetics by producing digital literature that is deliberately difficult to navigate or whose interfaces are anything but user-friendly.”<a id="fnlink18"></a><a href="#fn18"><sup>[18]</sup></a> <i>No Choice About the Terminology </i>indeed falls in line with Emerson’s argument by drawing attention to the way that digital interface can structurally alter its user’s experience of reading. By creating a text that becomes less textual and more difficult to read as the user tries to interact with it, Lewis demonstrates how interfaces in and of themselves are more than mere windows to the structure beneath, much the way that language in </span><span class="s8"><i>Lone Wolf v. Hitchcock</i> or </span><span class="s5"><i>Green v. City of New Orleans</i></span><span class="s1"> does more to obscure than to reveal an underlying truth. Perhaps Lewis himself puts it best in his description of <i>No Choice About the Terminology</i>, in which he describes how he found the line “you’ve got no choice about the terminology” in an article about the owner of an ice cream parlor who was a stickler for calling things by the correct names. As he writes of the PoEMM’s genesis, Lewis draws a distinction between terminology and ontology:</span>
+
+<span class="s1">Coming from a household in which ice cream was taken very seriously indeed, and often struggling with what terminology to use to describe my ethnicity (Cherokee, Hawaiian, Samoan, raised in northern California rural mountain redneck culture), and my profession (artist? poet? software developer? educator? designer?), and recognizing both the danger and seduction of neat categorizations, the line inspired a series of texts playing with categories, definitions and the idea that, though we might have some choice about our terminology, we have no choice about our ontology<a id="fnlink19"></a><a href="#fn19"><sup>[19]</sup></a>.</span>
+
+<span class="s1">Lewis’ use of “terminology” evokes a host of words in its etymology. The word recalls the root meaning of ending, evoking on one hand </span>the “larger national narrative of the ‘vanishing Indian’” It conjures, too, another kind of teleological narrative about the history of technology as progressive.<a id="fnlink20"></a><a href="#fn20"><sup>[20]</sup></a><span class="s1"> It also echoes Gerald Vizenor’s neologism “terminal creeds,” which (not unlike the term phantasm) refers to outsider-imposed beliefs that seek to pin down or close off indigenous identities (<i>Bearheart: The Heirship Chronicles).</i> Finally, it recalls Termination, the mid-20</span><span class="s4"><sup>th</sup></span><span class="s1"> century phase of federal Indian policy which involved <i>terminating </i>the official relationship between indigenous nations and the government in favor of an assimilationist policy.<a id="fnlink21"></a><a href="#fn21"><sup>[21]</sup></a><span class="Apple-converted-space"> </span></span>
+
+<span class="s1">All endings of various kinds. Non-transparency and obfuscation of language within laws, treaties, land deeds, and histories has played a significant role in disenfranchising indigenous people and creating these endings. <i>No Choice’s </i>reworking of supposedly “transparent” touchscreen technology into something visible, subjective, and obfuscatory parallels Lewis’ interest in how supposedly impartial language can in fact be subjective and obscure hidden truths - and, with the right context, its subjectivity can be made visible. By drawing systems of language, law, and technology into conversation with each other, Lewis’ lively texts consider the implications of this colonial legacy for digital and textual media. And, as awikhiganak, his PoEMMs formally resist Western conventions of digital text, like Sequoyah nearly two hundred years ago.</span>
+
+<hr align="left" size="1" width="33%" />
+<a id="fn18"></a><a href="#fnlink18"><span class="s6">[18]</span></a><span class="s6"> </span>Emerson 3-4; 4
+<a id="fn19"></a><a href="#fnlink19"><span class="s6">[19]</span></a><span class="s6"> </span><span class="s3"><i>PoEMM The 2</i></span><span class="s4"><i><sup>nd</sup></i></span><span class="s3"><i> Album </i>99-100</span>
+<span class="s1"><a id="fn20"></a><a href="#fnlink20">[20]</a> </span><span class="s16">See Emerson’s remarks about “media archaeology”: “</span>Media archaeology does not seek to reveal the present as an inevitable consequence of the past but instead looks to describe it as one possibility generated out of a heterogeneous past… especially those variations that defy the ever-increasing trend toward ‘standardization and uniformity among the competing electronic and digital technologies’… I uncover a nonlinear and nonteleological series of media phenomena—or ruptures—as a way to avoid reinstating a model of media history that tends toward narratives of progress and generally ignores neglected, failed, or dead media” (xiii).
+<span class="s6"><a id="fn21"></a><a href="#fnlink21">[21]</a> </span>O’Brien <i>Firsting and Lasting </i>13; Vizenor <i>Bearheart; </i>Fixico <i>Termination and Relocation</i> ix. Fixico identifies continuities between Termination and other eras of Indian policy, in the sense that eradication remained at the heart of Termination policy: “<span class="s17">In everything that it represented, termination threatened the very core of American Indian existence-its culture. The federal government sought to de-Indianize Native Americans” (183).</span>
+
+[[Continue to "Field of Honor"|Field of Honor]]
+
+
+:: The Intellectual Network
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/lapensee-lewis-connection.jpg" width="496" height="359" alt="Image">
+
+In 2010, Elizabeth LaPensée and Jason Edward Lewis, along with Skawennati Fragnito, presented on their <i>Skins (</i><b><i>link out) </i></b>game-making workshops for indigenous youth at a conference called FuturePlay. In 2011, they co-published an article together, also on <i>Skins. </i>In 2013 and 2014, two more articles, this time on Fragnito’s machinima series <i>TimeTraveller<a id="fnlink25"></a></i><a href="#fn25"><sup>[25]</sup></a><i> </i><b><i>(link out).<span class="Apple-converted-space"> </span></i></b>
+
+The core community of indigenous game developers in the United States and Canada is a deeply interlinked intellectual network, and LaPensée and Lewis happen to be two particularly well-connected nodes of that network. In addition to collaborating with each other at Lewis’ Obx Labs and Aboriginal Territories in Cyberspace (or AbTeC, the organization behind the <i>Skins </i>project), and <i>TimeTraveller, </i>both Lewis and LaPensée often work communally and collaboratively with other creators, from traditional singers to programmers. Lewis’ network dates back to CyberPowWow, a site that, from 1997 to 2004, “<span class="s9">used the Internet to bridge the vast geographical distances, both in Canada and around the world, that separate Aboriginal people, especially contemporary Aboriginal artists.”<a id="fnlink26"></a><a href="#fn26"><span class="s10"><sup>[26]</sup></span></a><i> </i></span><span class="s11">LaPensée, meanwhile, has deep ties to the community of artists, writers, and scientists that has rallied around the concept of “indigenous futurisms” the term that Grace Dillon has coined to </span>describe literary works that find their roots in indigenous sciences, including ideas about the relationship between space and time (spacetime), multiverse theory, and other bodies of knowledge that fall into the realm of quantum physics<a id="fnlink27"></a><a href="#fn27"><sup>[27]</sup></a>. These are ties of literal kinship as well<span class="s11">, for Dillon is LaPensée’s mother. Renee Nejo also credits LaPensée with </span>much of the “coming togetherness” of the community, because “she had always been very vocal about her presence and native creations,” <span class="s11">becoming a key figure for designers like Nejo, who just four years ago in 2013 had not yet connected with other Native game designers.<a id="fnlink28"></a><a href="#fn28"><span class="s12"><sup>[28]</sup></span></a> The collaborations of Lewis and LaPensée point to the community of indigenous game designers as an intellectual network that is both continuous and emerging, stretching back to the 1990s but certainly growing rapidly in strength by 2015, when John Romero hosted the first Natives in Game Dev gathering.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn25"></a><a href="#fnlink25">[25]</a> www.elizabethlapensee.com/presentations-1/#/publications/. Machinima refers to cinematic-styled videos produced from within video game worlds. Often, as with <i>TimeTraveller, </i>machinima is complexly designed, scripted, and voiced.
+<a id="fn26"></a><a href="#fnlink26">[26]</a> (<a href="http://www.abtec.org/projects.html"><span class="s8"><i>www.abtec.org/projects.html</i></span></a><i>)</i></span>
+<span class="s1"><i><a id="fn27"></a></i><a href="#fnlink27">[27]</a></span><span class="s3"> </span><span class="s18"><i>Walking the Clouds </i>4</span>
+<a id="fn28"></a><a href="#fnlink28"><span class="s6">[28]</span></a><span class="s6"> </span>Renee Nejo, personal interview.
+
+[[Continue to "Elizabeth LaPensée"|Elizabeth LaPensée]]
+
+
+:: We Sing for Healing
+<span class="s6"><a id="doc13"></a>LaPensée’s game <a href="http://www.survivance.org/wesing/"><span class="s2"><i>Ninagamomin ji-nanaandawi'iwe</i></span></a></span><span class="s1"><i> (</i><a href="http://www.survivance.org/wesing/"><span class="s2"><i>We Sing for Healing</i></span></a><i>) </i>embraces indigenous futurisms by mechanically, visually, and musically playing with nonlinear movement between times and spaces.</span>
+
+<span class="s1"><span class="Apple-converted-space"> </span><i>We Sing for Healing, </i>which LaPensée identifies on her website as a “musical choose-your-own adventure text game,” relies on hyperlink mechanics to create a nonlinear, deeply exploratory game experience. As theorist and developer Nick Montfort defines it, “a hypertext fiction” is “a system of fictional interconnected texts traversed using links.”<a id="fnlink32"></a><a href="#fn32"><sup>[32]</sup></a> Unlike most text-based games, <i>We Sing </i>utilizes words in a minimalist style, relying on a confluence of words, images, and music to create an experience that de-centers language and allows the player to dwell more imaginatively in the atmosphere of the game.</span>
+
+<iframe src="http://www.survivance.org/wesing/" width="940" height="620" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<i>We Sing For Healing </i>employs the unique mechanics of text-based interaction to create a gameworld through which the player moves iteratively and non-linearly. At the same time, LaPensée’s game clearly moves beyond these mechanics to generate an unusually dimensional and artistic experience. The introduction of multimedia elements lends an emotional force to the game, placing emphasis on the game’s music and LaPensée’s art rather than on the text itself. Rather, the text serves to orient the player in relation to what they are hearing and seeing, giving them a number of options for how they want to engage with the musical and visual environment that each page of the game presents. Often the text choices serve to generate the player’s introspection about their own reactions to the music and art.
+
+<hr align="left" size="1" width="33%" />
+
+<i><a id="fn32"></a></i><a href="#fnlink32">[32]</a> <span class="s2"><i>Twisty Little Passages </i>12</span>
+
+[[Continue to "opening page"|opening page]]
+
+
+:: Turtle
+<a id="doc15"></a>One of the most moving passages in <i>We Sing </i>allows the player to interact with an image as part of the story.<a id="fnlink33"></a><a href="#fn33"><sup>[33]</sup></a> When skipping rocks by the river, the game’s text reads: “The rock jumps across the surface and awakens the buried turtle. [Touch] the turtle to pull it from the oil or <span class="s13">step back</span>.” In order to complete the scene, the player has to spot the shape of the turtle hidden in the photograph and click on it, an action that reveals the turtle’s outline and new choices in the text.
+
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/wesing-turtle.jpg" width="600" height="392" alt="Image">
+The action of this scene takes the player beyond the world of hypertext with its clearly delineated choices. The image and the player’s relationship with the story that it tells becomes essential to how they respond to the scene. The choices ask the player not only to look at the scene and see the turtle, but to think about whether they <i>care </i>enough about the turtle to look for it and save it. This is a scene that depends upon emotion, and it is all the more exceptional because it is the only scene in which the player <i>directly </i>interacts with an image by clicking upon it. Because it pushes beyond the formal conventions that govern the rest of the game, the act of clicking the turtle takes on a transformative intimacy that allows the player to care more deeply about what happens next and to think more carefully about the relationship between image and story.<span class="Apple-converted-space"> </span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s2"><a id="fn33"></a><a href="#fnlink33"><span class="s3">[33]</span></a></span><span class="s3"> </span>You can find this scene through the following path: walk away -&gt; walk on the rocks -&gt; skip rocks.
+
+[[Continue to "Song, invocation, evocation"|Song, invocation, evocation]]
+
+
+:: resistance/survivance
+<a id="doc17"></a>LaPensée’s work is remarkable for the way it at once resists formal Western conventions and articulates new possibilities for technology rooted in indigenous ways of knowing. In that way, her games resonate with Vizenor’s theory of survivance as “more than survival, more than endurance or mere response.”<a id="fnlink35"></a><a href="#fn35"><sup>[35]</sup></a><span class="Apple-converted-space"> </span>
+
+<hr align="left" size="1" width="33%" />
+
+<a id="fn35"></a><a href="#fnlink35"><span class="s6">[35]</span></a><span class="s6"> <i>Manifest Manners</i> vii.</span>
+
+[[Continue to "beading1"|beading1]]
+
+
+:: beading2
+<a id="doc19"></a>The potential for beading to constitute an underlying structure like code within games opens new ways to understand <i>We Sing for Healing. </i>In <i>We Sing, </i>beaded images appear in multiple scenes, and beading thus becomes one of the principal media that conveys images in the game’s artwork. LaPensée is thus able to turn beading into a thematic and visual structure within the game that colors the player’s experience of it. Even though she has not yet made a video game out of beads (at least, as far as I know!), she works the feeling of a beaded structure into her gameplay, and is able to suggest the possibility of a deeper level of integration between the two.
+
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/wesing-beading.jpg" width="505" height="356" alt="Image">
+
+[[Continue to "beading3/map"|beading3/map]]
+
+
+:: Futurisms/sf
+<a id="doc21"></a>LaPensée also incorporates ideas about space-time and physics that are reflected in speculative fiction texts. Her opening text of <i>We Sing for Healing </i>asks the player to understand the game as a way of moving through space <i>and </i>time, evoking past and future as the game guides the player along digital suggestions of rivers and streams. She calls it “a space/time journey in theme and technology.”<span class="Apple-converted-space"> </span>
+
+<img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/wesing-space-time-slippage.jpg" width="559" height="363" alt="Image">
+
+Once again, LaPensée’s imagery evokes water alongside outer space, extending Anishinaabe conceptions of geographic space into future times and otherworldly places. Grace Dillon might call this “native slipstream”: “writing that does not simply seem avant-garde but models a cultural experience of reality” - a definition that also speaks to survivance’s sense of simultaneous resistance and cultural assertion. Dillon also notes that “Native slipstream thinking, which has been around for millennia, anticipated recent cutting-edge physics, ironically suggesting that Natives have had things right all along. The closest approximation in quantum mechanics is the concept of the ‘multiverse.’”<a id="fnlink42"></a><a href="#fn42"><sup>[42]</sup></a> LaPensée’s verbal and visual evocation of multiple spaces in one image seems to fit the definition well.<span class="Apple-converted-space"> </span>
+
+<span class="s6">Identifying LaPensée’s work this way also places her into conversation with authors like LeAnne Howe, whose book <i>Miko Kings</i> explores the physics of time through Choctaw language systems. Her quirky, brilliant character Ezol Day comes up with her own theories about space and time: </span><span class="s1">“Light is the key to time… Choctaw words are tools for moving back and forth in time. Our verbs are directional — in or out, dull and bright… A pitcher makes equations come to light when he throws the ball. Ball + Direction = Light. And the light changes time.”<a id="fnlink43"></a><a href="#fn43"><sup>[43]</sup></a> And indeed, Ezol’s theories resonate with many physicists’ ideas about quantum mechanics - spacetime appears in Einstein’s theory of general relativity. Ideas about the speed of light are included in that theory as well<a id="fnlink44"></a><a href="#fn44"><sup>[44]</sup></a>. Ezol’s words also offer another way to understand LaPensée’s game: just as she calls Choctaw words “tools for moving back and forth in time,” LaPensée’s minimalist text, mostly composed of hyperlinks, primarily serves as a set of “tools” for moving through the space/time journey that she has created. By pushing the boundaries of the text game form until the text is mostly hyperlinks, LaPensée creates a gameworld in which language can indeed be tools for spacetime travel. By identifying her work with indigenous futurisms, she lets each of us imagine through speculative fiction exactly what that transformation of form might mean within indigenous understandings of science.</span>
+
+<hr align="left" size="1" width="33%" />
+<a id="fn42"></a><a href="#fnlink42">[42]</a> <span class="s16"><i>Walking the Clouds </i>4</span>
+<a id="fn43"></a><a href="#fnlink43"><span class="s6">[43]</span></a><span class="s6"> </span><i>Miko Kings </i>164
+<a id="fn44"></a><a href="#fnlink44"><span class="s6">[44]</span></a><span class="s6"> </span>Redd
+
+[[Continue to "Survivance Game"|Survivance Game]]
+
+
+:: summary
+<span class="s1"><a id="doc23"></a> Exploring the website, the potential “player” will see that the site plays on the role-playing game mechanic of “quests,” tasks that the player must complete - usually to earn a material reward. But the quests of <i>Survivance </i>do not ask its players to grind for gold or kill never-ending numbers of monsters; rather, they are prompts for individual introspection and creation - archived on the site as “acts of survivance.” Unlike most video game quests, which give the player a specific task or list of tasks to perform, <i>Survivance’s </i>quests are open-ended, providing players with multiple paths that are “structured in the phases of the Indigenous life journey”: Orphan, Wanderer, Caretaker, Warrior, Changer. The stages of the player’s “journey” emphasize the game’s ultimate goals of healing and empowerment. These paths can be navigated consecutively, or the player can begin their journey with whatever path they choose. Either way, the game’s structure plays out in a recursive, non-linear manner; for example, the Wanderer’s “Wounded Hoop Quest” re-iterates the Orphan’s “Broken Hoop Quest,” and both are recalled in the Caretaker’s “Sacred Hoop Quest.” Because the player’s navigation of paths is allowed to be exploratory and non-linear, the quests echo each other in ways that may be unpredictable, but nevertheless recall the cyclical, iterative structure of oral literatures<a id="fnlink46"></a><a href="#fn46"><sup>[46]</sup></a> - and indeed, the iterative feel of Vizenor’s own writings.</span>
+
+<hr align="left" size="1" width="33%" />
+
+<span class="s2"><a href="http://survivance.org"><i><a id="fn46"></a></i></a><a href="#fnlink46"><span class="s3">[46]</span></a><a href="http://survivance.org"><span class="s3"> </span></a></span><b>CITE: Womack, Basso? Or, alternatively, change this to biskaabiiyang and cite ELP</b>
+
+[[Continue to "growing living archive"|growing living archive]]
+
+
+:: interactivity/social engagement
+<span class="s5"><i><a id="doc25"></a>Survivance </i>also generates interactivity <i>between </i>players by asking them to participate in conversations about survivance online and in the real world. The game encourages players to “</span><span class="s1">put ‘<a href="https://twitter.com/search?src=typd&amp;q=survivance"><span class="s15">#survivance</span></a>’ in Twitter tweets, Facebook status updates, and other social networks to share your progress in Survivance.”<a id="fnlink47"></a><a href="#fn47"><span class="s5"><sup>[47]</sup></span></a><i> </i>By doing so, the game extends its presence and impact beyond itself in cyberspace, expanding and linking indigenous survivance across the constraints of separate platforms. It also crosses disciplinary boundaries by generating a space in which multiple contexts of survivance naturally cross paths; on Twitter in particular, #survivance has become a confluence of literary studies (coming from Vizenor’s creation of the term) and <i>Survivance </i>players tagging their creations. LaPensée has described this communal Twitter space as “a complex yet delicate narrative for players and people who are watching to follow” that can also “pull players together.”<a id="fnlink48"></a><a href="#fn48"><span class="s5"><sup>[48]</sup></span></a> Just as some Massively Multiplayer Online Role Playing Games (MMORPGS) have live chat functionality for players to talk to each other, <i>Survivance </i>uses Twitter to enable communication and community among its players.</span>
+
+<span class="s1"><b>(Either insert image or embed twitter feed here)</b></span>
+
+<span class="s1">LaPensée’s game thus creates the potential for her players to participate in a community with others who may be on their own “journeys” of engaging indigeneity through the internet. At once, it extends itself into these other spaces and recognizes its own limitations as just one way to access empowerment and healing. With similar ambition and modesty, it encourages its players to connect in person with their own communities. For example, a section of “The Fight Quest” asks the player to:</span>
+
+<ul class="ul1">
+  <li class="li16"><span class="s1">Mend your sacred hoop.</span></li>
+  <li class="li16"><span class="s1">Are there events, ceremonies, or meetings in your area?</span></li>
+  <li class="li16"><span class="s1">Are there collaborations you want to pursue?</span></li>
+  <li class="li16"><span class="s1">Form new healthy relationships and behaviors<a id="fnlink49"></a><a href="#fn49"><span class="s5"><sup>[49]</sup></span></a></span></li>
+</ul>
+<span class="s1">LaPensée has noted that engagement with real world communities has always been a major part of <i>Survivance’s </i>ultimate goal of giving its players a healing experience. She writes,</span>
+
+<span class="s1">In Indigenous ways of knowing, we constantly live and act as a community. Some of these ways have been damaged through colonization perpetuated mostly at residential schools/boarding schools where an individual sense of self was taught and consequently detached youth from their families and communities… However, many of these ways of knowing live on and the quests in <i>Survivance </i>are one way in which players can reconnect with traditional teachings<a id="fnlink50"></a><a href="#fn50"><span class="s5"><sup>[50]</sup></span></a>.</span>
+
+<span class="s1">The process of real life reconnection through <i>Survivance </i>gameplay has proven to be a successful mechanic; one player, Toma Villa, spent a summer learning a traditional story from his relatives and then responding to the experience through an art print, which he used to share the story with his community and to raise money for them<a id="fnlink51"></a><a href="#fn51"><span class="s5"><sup>[51]</sup></span></a>. You can view Villa’s print here survivance.org/wilups-and-wawukya-tom-villa-2012/.</span>
+
+<hr align="left" size="1" width="33%" />
+<a id="fn47"></a><a href="#fnlink47"><span class="s6">[47]</span></a><span class="s6"> <i>survivance.org/communicate</i></span>
+<span class="s1"><a href="survivance.org/communicate"><i><a id="fn48"></a></i></a><a href="#fnlink48">[48]</a><a href="survivance.org/communicate"> </a>“Survivance Among” 50</span>
+<span class="s1"><a id="fn49"></a><a href="#fnlink49">[49]</a></span><span class="s3"> survivance.org/the-fight-quest/</span>
+<span class="s1"><a href="survivance.org/the-fight-quest/"><a id="fn50"></a></a><a href="#fnlink50">[50]</a>“Survivance Among” 49
+<span class="s1"><a id="fn51"></a><a href="#fnlink51">[51]</a> </span><span class="s2">“Survivance Among” 46-7</span>
+
+
+[[Continue to "The game is also an act of survivance in its own right"|The game is also an act of survivance in its own right]]
+
+
+:: Blood Quantum
+<a id="doc27"></a>Western values and their influence over gaming technology appear with painful force in Renee Nejo’s upcoming game <i>Blood Quantum. </i>Nejo describes <i>Blood Quantum </i>as “a tribute to my heritage” and an empathy simulator, through which she seeks to give the player the opportunity to understand the emotional pain of colonial violence. In stories that are explicitly about native identity, she explains, “othering has already occurred,” so instead she has built a narrative about little “drawplets,” who are amorphous, cute, and can make the player want to care for them.<span class="Apple-converted-space"> </span>
+
+<span class="s1"><img src="http://hradil.5colldh.org/themedia/Chapter%202/Images/drawplet.jpg" width="266" height="243" alt="Image"></span>
+
+[[Continue to "BQ1"|BQ1]]
+
+
+:: BQ2
+<a id="doc29"></a> The other half of play revolves around exploration. The player can, if they choose, pick members of the community to form a party to explore five dungeon crawler-like levels of exploration. The levels feature a turn-based combat system and permanent death. It is through exploration that the player first has the opportunity to encounter what Nejo calls “grayscale drawplets,” outsiders to the community through whom the forces of colonization appear in the game. As she explained to me,
+
+<span class="s1">You, as a player, can decide whether you’re going to continue to be diplomatic with the grayscale drawplets or if you’re going to go full aggro and just fight everything. So it’s open to different playstyles. … First you see them, then you can interact with them, then what they’ll start to do is take away your drawplets away at night. That’s a thing that if you don’t move [i.e., don’t leave the home island and go through the levels of exploration], will start happening with you not understanding any reason why, forcing the player either to go out and search for them or to slowly be obliterated as a race… all of these come from events in history where we tried to replicate that and the player chooses how they’re going to engage.<a id="fnlink53"></a><a href="#fn53"><span class="s7"><sup>[53]</sup></span></a></span>
+
+If the player chooses to interact diplomatically with the grayscale drawplets, there is also a chance that ‘mixed blood’ drawplets will be born in the home island community. This is where the title, <i>Blood Quantum, </i>comes in. The game has a mechanic through which “blood quantum can be bred out over generations”; over time, if there are enough mixed-grayscale drawplets in the community, drawplets can be born that are no longer considered members of the community. They lose their bright colors, turn gray, and the player can no longer interact with them. It is a mechanic based directly on policies that restrict tribal membership based on how much native “blood” a person has, and it is meant to capture the loss that a community suffers when blood quantum cuts people away from their kin. <b>WORK IN KIM TALLBEAR</b>
+
+<hr align="left" size="1" width="33%" />
+<a id="fn53"></a><a href="#fnlink53"><span class="s6">[53]</span></a><span class="s6"> </span>Renee Nejo personal interview
+
+[[Continue to "BQ3"|BQ3]]
+
+
+:: BQ4
+<a id="doc31"></a>Nejo’s experience with developing the game suggests a parallel between technological systems and social systems. That is what makes her story about the game’s inclination to push its players toward racial purity so powerful. She placed empathy-based mechanics into a game system whose purpose is survival in the face of population loss from colonialism, and the system reproduced the conditions of colonialism with such disturbing accuracy that it also reproduced colonialism’s racial purity ideology <i>without Nejo creating a mechanic for racial purity. </i>The ease with which the technological system mirrors the colonial social system is eerie.
+
+As Nejo pointed out to me, the result is a lesson about ideology and individual choice within a broader system. “I’m not calling people racist in this game,” she clarified. “I’m saying it can happen with the systems you’re given to work with.”<a id="fnlink56"></a><a href="#fn56"><sup>[56]</sup></a> In other words, in both computing systems and social systems, sometimes subjective, ideology-driven decision making does not occur at the individual level - the subjectivity can come from much further down within the system itself.<span class="Apple-converted-space"> </span><
+
+<hr align="left" size="1" width="33%" />
+<a id="fn56"></a><a href="#fnlink56"><span class="s6">[56]</span></a><span class="s6"> </span>Renee Nejo personal interview
+
+[[Conclusion to Chaper 2]]
+
+
